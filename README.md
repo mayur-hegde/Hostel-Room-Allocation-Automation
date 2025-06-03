@@ -55,13 +55,6 @@ This project automates the process of allocating hostel rooms to students based 
 
 Each student receives a **personalized email** based on their allocation status.
 
-## 📸 Screenshots
-
-| Description                        | Image               |
-|------------------------------------|---------------------|
-| Excel Input & Output               | `screenshots/*.png` |
-| UiPath Workflow Snippets           | `screenshots/*.png` |
-| Sample Email Messages              | `screenshots/*.png` |
 
 ## 🚀 Future Enhancements
 
@@ -72,16 +65,7 @@ Each student receives a **personalized email** based on their allocation status.
 
 ## 👨‍💻 Authors
 
-- [Your Name]  
-- [Teammates' Names, if any]
+- [Mayur Shridhar Hegde] 
 
-## 📃 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙌 Acknowledgements
-
-- UiPath Community Resources  
-- University Hostel Management Team (for domain insights)
 
 
