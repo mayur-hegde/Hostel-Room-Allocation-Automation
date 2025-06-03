@@ -65,7 +65,7 @@ Each student receives a **personalized email** based on their allocation status.
 
 ## 👨‍💻 Authors
 
-- @mayur-hegde 
+- [mayur-hegde](https://github.com/mayur-hegde)
 
 
 
